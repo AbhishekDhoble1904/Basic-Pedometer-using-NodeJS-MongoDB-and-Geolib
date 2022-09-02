@@ -3,6 +3,9 @@
 Download and install all the dependencies using npm i 
 Use npm start
 Now open POSTMAN and use "http://localhost:8000/fit/create" to add new data in database where in input field should be 
+
+
+
 #Input
 {
     "userName":"Raj Ray",
@@ -12,7 +15,9 @@ Now open POSTMAN and use "http://localhost:8000/fit/create" to add new data in d
     "userStopLatitude": 19.1613484,
     "userStopLongitude": 78.9324209
 }
+
 ![image](https://user-images.githubusercontent.com/72486595/188120781-7b864273-d2d6-4e15-b5c7-bcd0313c5773.png)
+
 
 #output
 {
