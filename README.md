@@ -31,6 +31,7 @@ Now open POSTMAN and use "http://localhost:8000/fit/create" to add new data in d
     "_id": "6311db22a062872bf9306eaf",
     "__v": 0
 }
-![Uploading image.png…]()
+
+![Uploading Output.png…]()
 
 Thank you!
